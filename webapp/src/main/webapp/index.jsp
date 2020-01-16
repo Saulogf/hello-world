@@ -4,3 +4,4 @@
 <h4> 4- Deploying and testing updates using ansible;</h4>
 <h5> 5- Rebuild Image, update and deploy in multiple hosts.</h5>
 <h5> 6- Another test.</h5>
+<h5> 7- One more to go.</h5>
